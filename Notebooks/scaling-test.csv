@@ -1,6 +1,6 @@
 num_workers,SEQ_training_time,SEQ_auc,SEQ_accuracy,RF_training_time,RF_auc,RF_accuracy
 1,329.7,0.735,0.671,64.5,0.789,0.711
 2,160.6,0.728,0.669,61.5,0.788,0.711
-3,
+3,146.6,0.724,0.661,63.3,0.788,0.711
 4,
 5
